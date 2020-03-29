@@ -11,7 +11,7 @@ $ npm install is-jwtoken
 ## Usage
 
 ```js
-const numIsFinite = require('is-jwtoken');
+const isJWToken = require('is-jwtoken');
 
 isJWToken("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0Ijo0NjU0NjQ0NjU0NH0.JG9ys4Rr4CT3RKZwO3OIwYrWf3aY5Z4B9RKIE7j83n4");
 // => true
