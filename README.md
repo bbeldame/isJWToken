@@ -26,3 +26,5 @@ isJWToken("anything but a jwtoken"):
 ## Caution
 
 To be used with the [jwtoken library](https://www.npmjs.com/package/jsonwebtoken) if you want to verify that the token is valid. This lib only test it via regex.
+
+[Useful link](http://jwt.calebb.net/) for decoding JWToken from browser (using it for testing)
