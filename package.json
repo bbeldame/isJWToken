@@ -1,29 +1,29 @@
 {
-	"name": "is-jwtoken",
-	"version": "1.0.0",
-	"description": "Simple regex tester for jwtoken",
-	"license": "MIT",
-	"repository": "bbeldame/isJWToken",
-	"author": {
-		"name": "Basile Beldame",
-		"email": "basile.beldame@gmail.com"
-	},
-	"engines": {
-		"node": ">=0.10.0"
-	},
-	"scripts": {
-		"test": "jest"
-	},
-	"files": [
-		"isJWToken.js"
-	],
-	"keywords": [
-		"token",
-		"isjwtoken",
-		"jwtoken",
+  "name": "is-jwtoken",
+  "version": "1.0.1",
+  "description": "Simple regex tester for jwtoken",
+  "license": "MIT",
+  "repository": "bbeldame/isJWToken",
+  "author": {
+    "name": "Basile Beldame",
+    "email": "basile.beldame@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "isJWToken.js"
+  ],
+  "keywords": [
+    "token",
+    "isjwtoken",
+    "jwtoken",
     "is",
     "regex"
-	],
+  ],
   "devDependencies": {
     "jest": "^25.2.4"
   }
